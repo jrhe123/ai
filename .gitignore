@@ -1,0 +1,11 @@
+.venv/
+.idea/
+.ipynb_checkpoints/
+resources/
+
+*.png
+*.csv
+*.xlsx
+*.pkl
+
+notes.md
