@@ -1,9 +1,11 @@
 .venv/
+__pycache__/
 .idea/
 .ipynb_checkpoints/
 resources/
 
 *.png
+*.jpg
 *.csv
 *.mp4
 *.xlsx
