@@ -1,7 +1,8 @@
 import cv2
 
 # 创建一个 VideoCapture 对象，参数 0 表示使用默认的摄像头, 也可以传入一个视频文件的路径
-cap = cv2.VideoCapture("resources/piano.mp4")   # resources/piano.mp4
+cap = cv2.VideoCapture(0)   # resources/piano.mp4
+# cap = cv2.VideoCapture("resources/piano.mp4")   # resources/piano.mp4
 
 while True:
     # 读取一帧
