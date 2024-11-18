@@ -6,6 +6,7 @@ resources/
 
 *.png
 *.jpg
+*.jpeg
 *.csv
 *.mp4
 *.xlsx

@@ -1,0 +1,109 @@
+[
+  {
+    "id": 12,
+    "annotations": [
+      {
+        "id": 4,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": {
+              "start": 8,
+              "end": 10,
+              "text": "萧炎",
+              "labels": [
+                "PER"
+              ]
+            },
+            "id": "YTvCZPUH_g",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 22,
+              "end": 24,
+              "text": "烛坤",
+              "labels": [
+                "PER"
+              ]
+            },
+            "id": "B3-MYMilIF",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 36,
+              "end": 38,
+              "text": "古元",
+              "labels": [
+                "PER"
+              ]
+            },
+            "id": "EqoYv-tfRg",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "start": 26,
+              "end": 28,
+              "text": "萧炎",
+              "labels": [
+                "PER"
+              ]
+            },
+            "id": "OMAOCLK8n6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-12-13T12:30:05.809830Z",
+        "updated_at": "2023-12-13T12:30:05.809854Z",
+        "draft_created_at": "2023-12-13T12:29:46.594519Z",
+        "lead_time": 69.961,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4dfaad9e-3bf4-4510-ac92-722782b12c78",
+        "import_id": null,
+        "last_action": null,
+        "task": 12,
+        "project": 5,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "00a1f8fa-doupou.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "text": "    “你认为萧炎所说，究竟是真还是假？”烛坤望着萧炎，偏头对着一旁的古元道。"
+    },
+    "meta": {},
+    "created_at": "2023-12-13T12:26:24.629420Z",
+    "updated_at": "2023-12-13T12:30:05.832458Z",
+    "inner_id": 10,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 1,
+    "comment_authors": []
+  }
+]
