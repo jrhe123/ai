@@ -15,3 +15,5 @@ resources/
 notes.md
 Image-Downloader/
 data/*
+
+*.pth
