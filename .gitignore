@@ -17,3 +17,5 @@ Image-Downloader/
 data/*
 
 *.pth
+
+logs/

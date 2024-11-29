@@ -33,7 +33,7 @@ test_dataloader = DataLoader(
 )
 
 for x, y in test_dataloader:
-    print("x shape: ", x.shape)
+    print("x shape [N, C, H, W]: ", x.shape)
     print("y shape: ", y.shape)
     break
 
@@ -63,7 +63,7 @@ class NeuralNetwork(nn.Module):
 model = NeuralNetwork().to(device)
 print(model)
 
-# 4. 损失函数
+# 4. 损失函数: 交叉熵损失 （分类）
 loss_fn = nn.CrossEntropyLoss()
 
 # 5. 优化器
