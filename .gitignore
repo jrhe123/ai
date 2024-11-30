@@ -17,6 +17,8 @@ Image-Downloader/
 data/*
 
 *.pth
+model.onnx
+*.ui
 
 logs/
 wandb/
