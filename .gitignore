@@ -18,6 +18,7 @@ data/*
 
 *.pth
 model.onnx
+*.onnx
 *.ui
 
 logs/
